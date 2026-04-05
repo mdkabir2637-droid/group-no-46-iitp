@@ -1,12 +1,4 @@
 /* Reset */
-.group-members {
-    text-align: center;
-}
-.group-members ol {
-    display: inline-block;
-    text-align: left;
-    margin-top: 10px;
-}
 .search-section {
     text-align: center;
 }
